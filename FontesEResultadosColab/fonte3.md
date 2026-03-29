@@ -5,6 +5,9 @@
         Rafael de Menezes Ros - 10417954
         Vinicius Alves Marques - 10417880
         Felipe do Nascimento Fonseca - 10409389
+
+# Síntese do conteúdo do arquivo
+        Download do dataset.
 # Codigo
         !pip install roboflow
 

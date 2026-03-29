@@ -5,6 +5,8 @@
         Rafael de Menezes Ros - 10417954
         Vinicius Alves Marques - 10417880
         Felipe do Nascimento Fonseca - 10409389
+# Síntese do conteúdo do arquivo
+        Treino do modelo com dataset escolhido ainda sem preparação prévea dos dados.
 # Codigo
         from ultralytics import YOLO
 

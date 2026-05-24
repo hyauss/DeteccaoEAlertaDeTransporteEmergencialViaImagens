@@ -1,5 +1,9 @@
 # DeteccaoEAlertaDeTransporteEmergencialViaImagens
 
+## Resumo
+
+Uma IA baseada em Visão Computacional capaz de reconhecer veículos de emergência, como ambulâncias, através de sites de monitoramento como da CET com o objetivo de enviar um alerta para um sistema que pode, por exemplo, priorizar a abertura de faróis para acelerar o deslocamento do veículo ao seu destino emergencial. A proposta tem a finalidade de aumentar a qualidade do serviço de emergência de saúde nas cidades (no contexto de Smart Cities), tornando-o mais eficaz e eficiente ao reduzir o tempo de deslocamento em atendimentos de urgência, assim aumentando a chance de salvar vidas.
+
 ## Dataset utilizado:
 
 https://universe.roboflow.com/ambulance-h523p/emergency-vehicle-detection-yz9lm-xzev5
